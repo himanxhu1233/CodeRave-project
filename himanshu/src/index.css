@@ -1,0 +1,10 @@
+.black_box{
+    background-color: rgb(49, 49, 49);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    height: 500px;
+}
+.per {
+    color: rgba(12, 205, 35, 0.696);
+}
